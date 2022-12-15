@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jungwon Park
-title: Interested in Optimization, Machine learning and Data mining.
+title: Interested in Machine learning and Data mining.
 email: ptduck00@dgu.ac.kr
 # email_title: Email (Email title override)
 phone: #Your phone number (optional)
@@ -54,33 +54,15 @@ about_profile_image: images/profile.jpg #Directory of profile image (eg. images/
 about_content: | # this will include new lines to allow paragraphs
   Hi, I’m a third year student in the Department of Industrial Systems Engineering at Dongguk University. I’m interested in <mark>Machine Learning</mark>, <mark>Data Mining</mark> and <mark>Optimization</mark>.
 
-  For more information, see cv or notion below.
-    - <a href="https://jardinpark.notion.site/Jungwon-Park-4be55d6b2125407ba8e9c0dae1a0a410">Notion</a>
-    - <a href="https://drive.google.com/file/d/1yfKq2_bknaS9b0J2wQQHhrcS3OzDdgj8/view?usp=sharing">CV</a>
+#  For more information, see cv or notion below.
+#    - <a href="https://jardinpark.notion.site/Jungwon-Park-4be55d6b2125407ba8e9c0dae1a0a410">Notion</a>
+#    - <a href="https://drive.google.com/file/d/1yfKq2_bknaS9b0J2wQQHhrcS3OzDdgj8/view?usp=sharing">CV</a>
 #    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Companion animal market analysis & strategy establishment
-        caption: Sep.2022 - present
-        link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: #Link Text
-        additional_links:
-          - title:  #Github page for project (eg. sproogen/modern-resume-theme)
-            icon: #fab fa-github
-            url: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  #Github page for project (eg. sproogen/modern-resume-theme)
-            icon: #fab fa-github
-            url: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          A project that analyzes the size and outlook of the companion animal market and establishes a strategy to be used in the company. (Industry-University Cooperation Activities)
+    content:         
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
