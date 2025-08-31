@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Jung Won Park / Site Title"
 title_separator          : "-"
 name                     : &name "Jung Won Park"
 description              : &description "personal description"
