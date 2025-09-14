@@ -4,15 +4,12 @@ title: "CV"
 permalink: /cv/
 author_profile: false
 redirect_from:
-  - /cv-json
-  - /resume-json
+  - /resume
 ---
 
 {% include base_path %}
 
 <!-- 기존 템플릿(원하면 유지/삭제) -->
-{% comment %} 필요 없으면 아래 라인 지우세요 {% endcomment %}
-{% include cv-template.html %}
 
 <div class="cv-download-links" style="margin: 1.25rem 0;">
   <a href="{{ base_path }}/files/cv_github.pdf" class="btn btn--primary">Download CV as PDF</a>
@@ -46,4 +43,3 @@ redirect_from:
     style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;">
   </iframe>
 </div>
-{% endcomment %}
