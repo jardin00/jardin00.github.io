@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -14,7 +14,7 @@ For more details about my background, research projects, and experiences, please
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 141.4%; max-height: 100vh; margin: 1rem 0;">
   <iframe 
-    src="{{ base_path }}/files/cv_github.pdf#zoom=page-fit"
+    src="{{ base_path }}/files/cv_github.pdf"
     title="CV PDF Preview"
     style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;">
   </iframe>
