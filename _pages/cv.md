@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!--{% include base_path %}-->
 
 <div class="cv-download-links" style="margin:1rem 0;">
   <!-- 다운로드 버튼 -->
