@@ -9,6 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+For more details about my background, research projects, and experiences, please see my
+[CV (PDF)]({{ base_path }}/files/cv_github.pdf).
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 141.4%; max-height: 100vh; margin: 1rem 0;">
+  <iframe 
+    src="{{ base_path }}/files/cv_github.pdf#zoom=page-fit"
+    title="CV PDF Preview"
+    style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;">
+  </iframe>
+</div>
+
+
+<!--
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -62,3 +75,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+>

@@ -20,7 +20,7 @@ My research interests include optimization, and deep/reinforcement learning with
 - Robotic delivery services
 - Logistics and Transportation systems
 
-More information can be found in my
+More information can be found in my [CV](https://jardin00.github.io/cv/)
 
 ## Conference
 - **Jung Won Park**, Byung Duk Song. (2025). UAM Routing and vertiport pad assignment: A mathematical optimization model and case study. *2025 Spring Joint Conference of KORMS and KIIE*
