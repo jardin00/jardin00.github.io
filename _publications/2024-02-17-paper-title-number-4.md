@@ -2,9 +2,9 @@
 title: "Design of a multidimensional urban logistics network: Optimizing the simultaneous location of UAM vertiports and ground logistics hubs"
 collection: publications
 category: conferences
-permalink: /publication/2024-05-paper-title-number-4
+permalink: /publication/2024-05-01-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-05
+date: 2024-05-01
 venue: '2024 Spring Joint Conference of KORMS and KIIE'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Jung Won Park, Na Yeon Kang, Byung Duk Song. (2024). Design of a multidimensional urban logistics network: Optimizing the simultaneous location of UAM vertiports and ground logistics hubs. 2024 Spring Joint Conference of KORMS and KIIE'
