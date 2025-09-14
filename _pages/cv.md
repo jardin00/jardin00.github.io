@@ -2,21 +2,26 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-For more details about my background, research projects, and experiences, please see my
-[CV (PDF)]({{ base_path }}/files/cv_github.pdf).
+<div class="cv-download-links" style="margin:1rem 0;">
+  <!-- 다운로드 버튼 -->
+  <a href="{{ '/files/cv_github.pdf' | relative_url }}" class="btn btn--primary" target="_blank">
+    Download CV as PDF
+  </a>
+</div>
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 141.4%; max-height: 100vh; margin: 1rem 0;">
+<!-- PDF 임베드 -->
+<div style="position:relative; width:100%; height:0; padding-bottom:141.4%; max-height:100vh; margin:1rem 0;">
   <iframe 
-    src="{{ base_path }}/files/cv_github.pdf"
+    src="{{ '/files/cv_github.pdf' | relative_url }}#zoom=page-fit"
     title="CV PDF Preview"
-    style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;">
+    style="position:absolute; inset:0; width:100%; height:100%; border:none;">
   </iframe>
 </div>
 
