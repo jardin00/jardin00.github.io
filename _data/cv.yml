@@ -4,9 +4,9 @@
     - name: Full Name
       value: Jungwon Park
     # - name: Date of Birth
-      # value: 14th March 1879
+    #   value: 14th March 1879
     # - name: Languages
-      # value: English, German
+    #   value: English, German
 
 - title: Education
   type: time_table
@@ -26,14 +26,14 @@
         - B.S. in Industrial Information Software Convergence
         - "GPA: 4.1/4.5"
         - "Dean's List: Fall 2021, Spring 2021, Fall 2020, Spring 2020"
-        
+
 - title: Academic Interests
   type: list
   contents:
     - Developing a methodology for decision making
     - Optimization, Machine Learning, Reinforcement Learning
     - Transportation, Logistics
-    
+
 - title: Research Experience
   type: time_table
   contents:
@@ -62,7 +62,7 @@
       institution: Korea University, Seoul, Republic of Korea
       year: Fall.2025
       description: Teaching Assistant
-        
+
 - title: Honors and Awards
   type: time_table
   contents:
