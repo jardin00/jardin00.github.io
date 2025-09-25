@@ -120,17 +120,25 @@
       "name": "Programming",
       "level": "Advanced",
       "icon": "",
-      "keywords": [
-        "Mathematical Optimization",
-        "Network Optimization",
-        "Operations Research",
-        "Simulation Modeling"
-      ]
+      "keywords": ["Python", "Java", "R"]
+    },
+    {
+      "name": "AI / Machine Learning",
+      "level": "Advanced",
+      "icon": "",
+      "keywords": ["Pytorch", "Tensorflow", "Natural Language Processing"]
+    },
+    {
+      "name": "AI / Machine Learning",
+      "level": "Advanced",
+      "icon": "",
+      "keywords": ["Pytorch", "Tensorflow", "Natural Language Processing"]
     }
+    
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
     },
