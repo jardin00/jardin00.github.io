@@ -15,5 +15,6 @@ nav_order: 2
 
 <div class="publications">
   {%- comment -%} @inproceedings / @conference = 학회 논문 {%- endcomment -%}
-  {% bibliography --file papers --query "type=inproceedings or type=conference" --group_by year --group_order descending %}
+  {% bibliography --file papers --query @inproceedings
+                --group_by year --group_order descending %}
 </div>
