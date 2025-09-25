@@ -25,20 +25,20 @@
         - B.S. in Industrial and Systems Engineering
         - B.S. in Industrial Information Software Convergence
         - title: "GPA: 4.1/4.5"
-
+        
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Developing a methodology for decision making
+    - title: Optimization, Machine Learning, Reinforcement Learning
+    - title: Transportation, Logistics
+    
 - title: Research Experience
   type: time_table
   contents:
     - title: Master Student
       institution: System Analysis & Operation Lab, Korea University, Seoul, Republic of Korea
       year: 2024-Present
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Research Assistant
       institution: eXperience Lab, Dongguk University, Seoul, Republic of Korea
       year: 2022.01 - 2022.07
@@ -46,38 +46,52 @@
         - Collected data on human hand and finger length for smartphone keyboard
         - Conducted smartphone usage surveys about satisfaction of smartphone keyboard
 
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+    - title: Logistic System Organization
+      institution: Korea University, Seoul, Republic of Korea
+      year: Fall.2025
+      description: Teaching Assistant
+    - title: Network Optimization
+      institution: Korea University, Seoul, Republic of Korea
+      year: Spring.2025
+      description: Teaching Assistant
+    - title: Operation Research I & Lab
+      institution: Korea University, Seoul, Republic of Korea
+      year: Fall.2025
+      description: Teaching Assistant
+        
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Teaching Assistant Scholarships, Korea University
+      year: Spring 2025, Fall 2024, Spring 2024, Fall 2025
+    - title: Cum Laude, Dongguk University
+      year: Feb.2024
+    - title: 1st Prize, AI challenge for future society, Dongguk University Linc 3.0
+      year: Dec.2022
+    - title: 2nd Prize, Industrial systems and engineering department capstone design competition, Dongguk University
+      year: May.2022
+    - title: COVID-19 Scholarship, Dongguk University
+      year: Fall 2022
+    - title: Work-Study Scholarship, Dongguk University
+      year: Spring 2022
+    - title: Entrance Scholarship, Dongguk University
+      year: Spring 2022
+    - title: Dean’s List, Dongguk University
+      year: Fall 2021, Spring 2021, Fall 2020, Spring 2020
+    - title: High School e-Learning Scholarship, Scholarship Foundation
+      year: Spring 2020
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Programming
+      description: Python, Java, R
+    - title: AI / Machine Learning
+      description: Pytorch, Tensorflow
+    - title: Tools
+      description: Git, CPLEX, Gurobi, LaTeX
+    - title: CAD (Beginner)
+      description: Onshape
