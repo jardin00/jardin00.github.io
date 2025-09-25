@@ -3,7 +3,7 @@
     "name": "Jungwon Park",
     "label": "Graduate student",
     "image": "",
-    "email": "jardin@korea.ac.kr,  iamrenepark@gmail.com",
+    "email": "jardin@korea.ac.kr",
     "phone": "",
     "url": "https://jardin00.github.io/",
     "summary": "",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Email",
+        "username": "iamrenepark@gmail.com",
+        "url": "mailto:iamrenepark@gmail.com"
       }
     ]
   },
@@ -31,8 +31,8 @@
       "studyType": "MS",
       "startDate": "2024-03",
       "endDate": "",
-      "score": "10",
-      "courses": [""]
+      "score": "",
+      "courses": []
     },
     {
       "institution": "Dongguk University",
@@ -42,61 +42,8 @@
       "studyType": "B.S.",
       "startDate": "2020-03",
       "endDate": "2024-02",
-      "score": "10",
-      "courses": [""]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "score": "",
+      "courses": []
     }
   ],
   "publications": [
@@ -105,83 +52,43 @@
       "publisher": "Spring Joint Conference of KORMS and KIIE",
       "releaseDate": "2025",
       "url": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12292333",
-      "summary": "This study develops a mathematical optimization model for UAM routing and vertiport pad assignment that considers pad capacity, occupancy, and charging constraints, applying a rolling horizon approach to handle real-time operations. Tested with K-UAM demonstration route data, the model highlights the necessity of pad-level constraints for practical UAM scheduling."
+      "summary": "Developed a mathematical optimization model for UAM routing and vertiport pad assignment with pad capacity/charging constraints and a rolling-horizon approach; validated on K-UAM demo data."
     },
     {
       "name": "Design of a multidimensional urban logistics network: Optimizing the simultaneous location of UAM vertiports and ground logistics hubs",
       "publisher": "Spring Joint Conference of KORMS and KIIE",
       "releaseDate": "2024",
       "url": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11800577",
-      "summary": "This study proposes a bi-objective mathematical optimization model for the simultaneous location of UAM vertiports and ground logistics hubs using administrative data from Seoul. The results present optimal strategies to enhance the efficiency of urban logistics systems and provide guidelines for infrastructure development."
-    },
+      "summary": "Proposed a bi-objective optimization model to co-locate UAM vertiports and ground hubs using Seoul administrative data; reported strategies for efficient urban logistics infrastructure."
+    }
   ],
   "skills": [
     {
       "name": "Programming",
       "level": "Advanced",
       "icon": "",
-      "keywords": ["Python", "Java", "R"]
+      "keywords": ["Python", "Java", "R", "Android (basic)"]
     },
     {
       "name": "AI / Machine Learning",
       "level": "Advanced",
       "icon": "",
-      "keywords": ["Pytorch", "Tensorflow", "Natural Language Processing"]
+      "keywords": ["PyTorch", "TensorFlow", "RNN", "Explainable AI (XAI)", "NLP"]
     },
     {
-      "name": "AI / Machine Learning",
+      "name": "Modeling & Tools",
       "level": "Advanced",
       "icon": "",
-      "keywords": ["Pytorch", "Tensorflow", "Natural Language Processing"]
+      "keywords": ["Optimization (Gurobi, CPLEX)", "Onshape (basic)"]
     }
-    
   ],
   "languages": [
-    {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+    { "language": "Korean", "fluency": "Native speaker", "icon": "" },
+    { "language": "English", "fluency": "Fluent", "icon": "" }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [],
+  "interests": []
 }
