@@ -2,38 +2,36 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Jungwon Park
+    #- name: Date of Birth
+      #value: 14th March 1879
+    #- name: Languages
+      #value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MS
+      institution: Korea University, Seoul, Republic of Korea
+      year: 2024.03 -
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Department of Industrial and Management Engineering
+        - GPA: 4.22/4.5
 
-- title: Experience
+    - title: B.S.
+      institution: Dongguk University, Seoul, Republic of Korea
+      year: 2020.03 - 2024.02
+      description:
+        - B.S. in Industrial and Systems Engineering
+        - B.S. in Industrial Information Software Convergence
+        - GPA: 4.1/4.5
+
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Master Student
+      institution: System Analysis & Operation Lab, Korea University, Seoul, Republic of Korea
+      year: 2024 -
       description:
         - Description 1.
         - Description 2.
@@ -41,8 +39,8 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
+    - title: Research Assistant
+      institution: eXperience Lab, Dongguk University, Seoul, Republic of Korea
       year: 1933
       description:
         - Description 1.
