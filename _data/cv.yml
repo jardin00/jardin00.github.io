@@ -16,7 +16,7 @@
       year: 2024.03 -
       description:
         - Department of Industrial and Management Engineering
-        - title: "GPA: 4.22/4.5"
+        - "GPA: 4.22/4.5"
 
     - title: B.S.
       institution: Dongguk University, Seoul, Republic of Korea
@@ -24,14 +24,14 @@
       description:
         - B.S. in Industrial and Systems Engineering
         - B.S. in Industrial Information Software Convergence
-        - title: "GPA: 4.1/4.5"
+        - "GPA: 4.1/4.5"
         
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - title: Developing a methodology for decision making
-    - title: Optimization, Machine Learning, Reinforcement Learning
-    - title: Transportation, Logistics
+    - Developing a methodology for decision making
+    - Optimization, Machine Learning, Reinforcement Learning
+    - Transportation, Logistics
     
 - title: Research Experience
   type: time_table
@@ -84,14 +84,10 @@
     - title: High School e-Learning Scholarship, Scholarship Foundation
       year: Spring 2020
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - title: Programming
-      description: Python, Java, R
-    - title: AI / Machine Learning
-      description: Pytorch, Tensorflow
-    - title: Tools
-      description: Git, CPLEX, Gurobi, LaTeX
-    - title: CAD (Beginner)
-      description: Onshape
+    - "Programming: Python, Java, R"
+    - "AI / Machine Learning: PyTorch, TensorFlow"
+    - "Tools: Git, CPLEX, Gurobi, LaTeX"
+    - "CAD (Beginner): Onshape"
