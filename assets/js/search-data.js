@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "My teaching experiences!",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -29,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
@@ -45,11 +38,11 @@ ninja.data = [{
             },},{id: "news-i-graduated-from-the-department-of-industrial-and-systems-engineering-at-dongguk-university-cum-laude-gpa-4-1-4-5",
           title: 'I graduated from the Department of Industrial and Systems Engineering at Dongguk University!...',
           description: "",
+          section: "News",},{id: "news-i-started-master-s-program-in-industrial-amp-amp-management-engineering-at-korea-university",
+          title: 'I started Master’s program in Industrial &amp;amp;amp; Management Engineering at Korea University.',
+          description: "",
           section: "News",},{id: "news-i-joined-system-analytics-amp-amp-optimization-lab-in-department-of-industrial-and-management-engineering-at-korea-university-sparkles-smile",
           title: 'I joined System Analytics &amp;amp;amp; Optimization Lab in Department of Industrial and Management...',
-          description: "",
-          section: "News",},{id: "news-i-was-admitted-to-the-master-s-program-in-industrial-amp-amp-management-engineering-at-korea-university",
-          title: 'I was admitted to the Master’s program in Industrial &amp;amp;amp; Management Engineering at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -96,51 +89,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "teaching-logistic-system-organization",
+          title: 'Logistic System Organization',
+          description: "Teaching Assistant at Korea University.",
           section: "Teaching",handler: () => {
-              window.location.href = "/teaching/1_project/";
-            },},{id: "teaching-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/teaching/1_logistic/";
+            },},{id: "teaching-network-optimization",
+          title: 'Network Optimization',
+          description: "Teaching Assistant at Korea University.",
           section: "Teaching",handler: () => {
-              window.location.href = "/teaching/2_project/";
-            },},{id: "teaching-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/teaching/2_network/";
+            },},{id: "teaching-operation-research-i",
+          title: 'Operation Research I',
+          description: "Teaching Assistant at Korea University.",
           section: "Teaching",handler: () => {
-              window.location.href = "/teaching/3_project/";
-            },},{id: "teaching-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/4_project/";
-            },},{id: "teaching-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/5_project/";
-            },},{id: "teaching-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/6_project/";
-            },},{id: "teaching-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/7_project/";
-            },},{id: "teaching-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/8_project/";
-            },},{id: "teaching-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/9_project/";
+              window.location.href = "/teaching/3_OR/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
