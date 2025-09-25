@@ -14,7 +14,6 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
-
-{% bibliography %}
-
+  {%- comment -%} @inproceedings / @conference = 학회 논문 {%- endcomment -%}
+  {% bibliography --file papers --query "type=inproceedings or type=conference" --group_by year --group_order descending %}
 </div>
