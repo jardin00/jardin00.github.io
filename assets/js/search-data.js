@@ -44,21 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-journal",
-              title: "Journal",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/journal/";
-              },
-            },{id: "dropdown-conference",
-              title: "Conference",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/conference/";
-              },
-            },{id: "books-the-godfather",
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
