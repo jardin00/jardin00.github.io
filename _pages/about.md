@@ -6,7 +6,7 @@ subtitle: Graduate Student <!--<a href='#'>Affiliations</a>. Address. Contacts. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_8415.JPG <!--prof_pic.jpg-->
   image_circular: false # crops the image to make it circular
   more_info: >
     <!--<p>555 your office number</p>-->
