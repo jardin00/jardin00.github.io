@@ -5,9 +5,9 @@ nav: false
 nav_order: 8
 dropdown: true
 children:
-  - title: Journal
-    permalink: /journal/
+  - title: Book
+    permalink: /books/
   - title: divider
-  - title: Conference
-    permalink: /conference/
+  - title: Blog
+    permalink: /blog/
 ---
