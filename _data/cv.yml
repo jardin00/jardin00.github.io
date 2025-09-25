@@ -16,7 +16,7 @@
       year: 2024.03 -
       description:
         - Department of Industrial and Management Engineering
-        - title: GPA: 4.22/4.5
+        - title: "GPA: 4.22/4.5"
 
     - title: B.S.
       institution: Dongguk University, Seoul, Republic of Korea
@@ -24,7 +24,7 @@
       description:
         - B.S. in Industrial and Systems Engineering
         - B.S. in Industrial Information Software Convergence
-        - title: GPA: 4.1/4.5
+        - title: "GPA: 4.1/4.5"
 
 - title: Research Experience
   type: time_table
