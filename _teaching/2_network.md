@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Network Optimization
+description: Teaching Assistant at Korea University.
+img: assets/img/3.jpg
+importance: 2
+category: TA
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
