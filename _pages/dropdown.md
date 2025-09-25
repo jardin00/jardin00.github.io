@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Publish
 nav: false
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Journal
+    permalink: /journal/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Conference
+    permalink: /conference/
 ---
