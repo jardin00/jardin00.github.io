@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 Hi, I am a graduate student in the Department of Industrial and Management Engineering at Korea University.
-Currently, I am studying optimization applications, including transportation and logistics.
+Currently, I am studying optimization applications, including transportation and logistics. specificly, I 
 Also, I am interested in solving problems with machine learning and artificial intelligence.
 
 
