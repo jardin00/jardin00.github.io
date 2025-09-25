@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jardin00.github.io/myCV//sitemap.xml
+Sitemap: https://jardin00.github.io/sitemap.xml
