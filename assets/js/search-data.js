@@ -418,12 +418,10 @@ ninja.data = [{
           section: "News",},{id: "news-i-graduated-from-the-department-of-industrial-and-systems-engineering-at-dongguk-university-cum-laude-gpa-4-1-4-5",
           title: 'I graduated from the Department of Industrial and Systems Engineering at Dongguk University!...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-was-admitted-to-the-master-s-program-in-industrial-amp-amp-management-engineering-at-korea-university",
+          title: 'I was admitted to the Master’s program in Industrial &amp;amp;amp; Management Engineering at...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/myCV/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
