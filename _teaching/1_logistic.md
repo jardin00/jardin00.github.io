@@ -2,7 +2,7 @@
 layout: page
 title: Logistic System Organization
 description: Teaching Assistant at Korea University.
-img: assets/img/marcin-jozwiak-kGoPcmpPT7c-unsplash
+img: assets/img/marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg
 importance: 1
 category: TA
 related_publications: false

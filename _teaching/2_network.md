@@ -2,7 +2,7 @@
 layout: page
 title: Network Optimization
 description: Teaching Assistant at Korea University.
-img: assets/img/alina-grubnyak-ZiQkhI7417A-unsplash
+img: assets/img/alina-grubnyak-ZiQkhI7417A-unsplash.jpg
 importance: 2
 category: TA
 giscus_comments: false
