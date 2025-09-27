@@ -29,6 +29,32 @@
   </footer>
 {% endif %}
 
-<script type="text/javascript" id="mapmyvisitors" 
-        src="//mapmyvisitors.com/map.js?d=_sVkTWSscSEol-jlPxC6_5ObiqQBYXnDnSG16IdrS6o&cl=ffffff&w=a">
-</script>
+
+<style>
+  /* 방문자 맵 반응형 컨테이너 */
+  .mmv-wrap {
+    display: flex;
+    justify-content: center; /* 가로 가운데 정렬 */
+    margin: 20px 0;
+    overflow: hidden;        /* 축소 시 가로 스크롤 방지 */
+  }
+  .mmv-inner {
+    width: 420px;            /* ← BASE_WIDTH: 여기 숫자를 바꾸세요 */
+    transform-origin: top center;
+  }
+
+  /* 화면이 BASE_WIDTH보다 좁아지면 비율 유지하며 축소 */
+  @media (max-width: 420px) { /* ← BASE_WIDTH와 동일하게 */
+    .mmv-inner {
+      transform: scale(calc(100vw / 420)); /* 화면폭 ÷ BASE_WIDTH */
+    }
+  }
+</style>
+
+<div class="mmv-wrap">
+  <div class="mmv-inner">
+    <script type="text/javascript" id="mapmyvisitors"
+            src="//mapmyvisitors.com/map.js?d=_sVkTWSscSEol-jlPxC6_5ObiqQBYXnDnSG16IdrS6o&cl=ffffff&w=420">
+    </script>
+  </div>
+</div>
